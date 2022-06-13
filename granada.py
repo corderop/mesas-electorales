@@ -15,18 +15,19 @@ def get_regex():
     di = r"\d{2}"
     sec = r"\d{3}"
     su = r"\d{2}|"
-    m = r"[ABCU]"
+    m = r"[A-Z]"
     let = r"[A-Z]\-[A-Z]"
     code = r"\d{9}"
     num = r"\d{2}"
     local_name = r"(?:\S| )+?"
     street = r"(?:\S| |\d)+?"
     optional_place = r"(?:\S| )+?"
+    ignore_pattern = r"(?:\*DISEMINADO\*| )"
     postal_code = r"\d{5}"
     town = r"(?:\S| )+?"
     province = r"(?:\w| )+?"
     
-    # (\d{2})\s+(\d{3})\s+(\d{2}|)\s+([ABCU])\s+([A-Z]\-[A-Z])\s+(\d{9})\s+(\d{2})\s+((?:\S| )+?)\s{2,}((?:\S| |\d)+?)\s{2,}((?:(?:\S| )+?|)?)\s{2,}(\d{5})\s+((?:\S| )+?)\s{2,}((?:\w| )+?)\s{2,}
+    # (\d{2})\s+(\d{3})\s+(\d{2}|)\s+([A-Z])\s+([A-Z]\-[A-Z])\s+(\d{9})\s+(\d{2})\s+((?:\S| )+?)\s{2,}((?:\S| |\d)+?)\s{2,}((?:(?:\S| )+?|)?)\s{2,}(\d{5})\s+((?:\S| )+?)\s{2,}((?:\w| )+?)\s{2,}
     regex = (
         rf"({di})", AT_LEAST_ONE_SPACE,
         rf"({sec})", AT_LEAST_ONE_SPACE,
@@ -37,6 +38,7 @@ def get_regex():
         rf"({num})", AT_LEAST_ONE_SPACE,
         rf"({local_name})", AT_LEAST_TWO_SPACES,
         rf"({street})", AT_LEAST_TWO_SPACES,
+        rf"{ignore_pattern}", AT_LEAST_TWO_SPACES,
         rf"({optional_place})", AT_LEAST_TWO_SPACES,
         rf"({postal_code})", AT_LEAST_ONE_SPACE,
         rf"({town})", AT_LEAST_TWO_SPACES,
@@ -51,15 +53,14 @@ def create_csv_from_list(data: list):
 
 if __name__ == "__main__":
     print("Getting text...")
-    text = get_text_from_pdf("boletin.pdf")
+    with open("data.txt", "r") as f:
+        text = f.read()
 
     print("Executing regex...")
     regex = get_regex()
+    print(regex)
     data = re.findall(regex, text)
 
     print(f"Extracted {len(data)} rows")
     print(f"Creating CSV...")
     create_csv_from_list(data)
-    
-    
-    

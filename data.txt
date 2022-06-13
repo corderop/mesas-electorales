@@ -156,30 +156,7 @@ Granada, 26 de abril de 2022, fdo.: Carmen María Beas Negro.
                                                                                  18220 ALBOLOTE                                      
                                                                                  GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
- 01 006    A A-L 180030010 01 CENTRO DE SERVICIOS SOCIALES COMUNITARIOS          PLAZA AVILA ROJAS 1                                 
-
-  
-
-B.O.P.  número  82
-
-n
-
-Granada, lunes, 2 de mayo de 2022
-
-n
-
-Página  3
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:         2   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 003 ALBOLOTE                                                                                                            
+ 01 006    A A-L 180030010 01 CENTRO DE SERVICIOS SOCIALES COMUNITARIOS          PLAZA AVILA ROJAS 1                                                     
                                                                                  18220 ALBOLOTE                                      
                                                                                  GRANADA                                             
  01 006    B M-Z 180030010 01 CENTRO DE SERVICIOS SOCIALES COMUNITARIOS          PLAZA AVILA ROJAS 1                                 
@@ -346,18 +323,7 @@ B.O.P.  número  82
                                                                                  GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 003 01 A A-Z 180120007 01 SALA POLIVALENTE DE ALGARINEJO                     CALLE SALVADOR DALI 15                              
-                                                                                 18280 ALGARINEJO                                    
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:         5   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 012 ALGARINEJO                                                                                                          
+                                                                                 18280 ALGARINEJO  
                                                                                  GRANADA                                             
  01 003 02 B A-Z 180120006 01 HOGAR DEL PENSIONISTA DE LA VIÑA                   CALLE CARRERA DE LA VIÑA (LA) 30                    
                                                                                  CARRERA DE LA VIÑA (LA)                             
@@ -402,31 +368,7 @@ B.O.P.  número  82
                                                                                  GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 002    A A-L 180140001 01 C.P. SAGRADO CORAZON DE JESUS                      CALLE ANGEL GANIVET 1                               
-                                                                                 18620 ALHENDÍN                                      
-
-  
-  
-
-B.O.P.  número  82
-
-n
-
-Granada, lunes, 2 de mayo de 2022
-
-n
-
-Página  5
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:         6   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 014 ALHENDÍN                                                                                                            
+                                                                                 18620 ALHENDÍN                                                 
                                                                                  GRANADA                                             
  01 002    B M-Z 180140001 01 C.P. SAGRADO CORAZON DE JESUS                      CALLE ANGEL GANIVET 1                               
                                                                                  18620 ALHENDÍN                                      
@@ -527,31 +469,7 @@ Página  5
                                                                                  GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 008    A A-L 180170010 01 CENTRO MUNICIPAL DE EDUCACION DE ADULTOS           CALLE CARRERA DE LA CONCEPCION 5                    
-                                                                                 18690 ALMUÑÉCAR                                     
-
-  
-  
-
-Página  6
-
-n
-
-Granada, lunes, 2 de mayo de 2022
-
-n
-
-B.O.P.  número  82
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:         8   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 017 ALMUÑÉCAR                                                                                                           
+                                                                                 18690 ALMUÑÉCAR                                           
                                                                                  GRANADA                                             
  01 008    B M-Z 180170010 01 CENTRO MUNICIPAL DE EDUCACION DE ADULTOS           CALLE CARRERA DE LA CONCEPCION 5                    
                                                                                  18690 ALMUÑÉCAR                                     
@@ -721,17 +639,6 @@ Página  7
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 010    A A-L 180210003 01 CENTRO SOCIOCULTURAL LA CERRACA                    CALLE ARISTOTELES 48                                
                                                                                  18100 ARMILLA                                       
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:        11   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 021 ARMILLA                                                                                                             
                                                                                  GRANADA                                             
  01 010    B M-Z 180210003 01 CENTRO SOCIOCULTURAL LA CERRACA                    CALLE ARISTOTELES 48                                
                                                                                  18100 ARMILLA                                       
@@ -776,31 +683,7 @@ Página  7
                                                                                  GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 003    U A-Z 180220003 01 BAJO DEL CONSORCIO                                 CALLE DOCTOR JIMENEZ RUEDA 10                       
-                                                                                 18230 ATARFE                                        
-
-  
-  
-
-Página  8
-
-n
-
-Granada, lunes, 2 de mayo de 2022
-
-n
-
-B.O.P.  número  82
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:        12   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 022 ATARFE                                                                                                              
+                                                                                 18230 ATARFE                                              
                                                                                  GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 004    A A-K 180220004 01 CINE ALHAMAR                                       CALLE ENRIQUE RUIZ CABELLO 11                       
@@ -845,18 +728,7 @@ B.O.P.  número  82
                                                                                  18230 ATARFE                                        
                                                                                  GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
- 02 001    A A-L 180220009 01 CENTRO CULTURAL MEDINA ELVIRA                      AVDA DIPUTACION S/N                                 
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:        13   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 022 ATARFE                                                                                                              
+ 02 001    A A-L 180220009 01 CENTRO CULTURAL MEDINA ELVIRA                      AVDA DIPUTACION S/N                                                                                                                                         
                                                                                  18230 ATARFE                                        
                                                                                  GRANADA                                             
  02 001    B M-Z 180220009 01 CENTRO CULTURAL MEDINA ELVIRA                      AVDA DIPUTACION S/N                                 
@@ -970,18 +842,7 @@ Página  9
                                                                                  18800 BAZA                                          
                                                                                  GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
- 02 006    U A-Z 180230008 01 GRUPO ESCOLAR CIUDAD DE BAZA                       AVDA INGENIERO GUTIERREZ SEGURA 1                   
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:        15   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 023 BAZA                                                                                                                
+ 02 006    U A-Z 180230008 01 GRUPO ESCOLAR CIUDAD DE BAZA                       AVDA INGENIERO GUTIERREZ SEGURA 1                                                                                                 
                                                                                  18800 BAZA                                          
                                                                                  GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
@@ -1150,31 +1011,7 @@ B.O.P.  número  82
                                                                                  GRANADA                                             
  ==================================================================================================================================  
  MUNICIPIO : 038 CAMPOTÉJAR                                                                                                          
- 01 001    A A-K 180380001 01 GRUPO ESCOLAR TIRSO DE MOLINA                      CALLE TIRSO DE MOLINA 3                             
-
-  
-  
-
-B.O.P.  número  82
-
-n
-
-Granada, lunes, 2 de mayo de 2022
-
-n
-
-Página  11
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:        18   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 038 CAMPOTÉJAR                                                                                                          
+ 01 001    A A-K 180380001 01 GRUPO ESCOLAR TIRSO DE MOLINA                      CALLE TIRSO DE MOLINA 3                          
                                                                                  18565 CAMPOTÉJAR                                    
                                                                                  GRANADA                                             
  01 001    B L-Z 180380001 01 GRUPO ESCOLAR TIRSO DE MOLINA                      CALLE TIRSO DE MOLINA 3                             
@@ -1219,18 +1056,7 @@ Página  11
                                                                                  GRANADA                                             
  ==================================================================================================================================  
  MUNICIPIO : 044 CÁSTARAS                                                                                                            
- 01 001    U A-Z 180440001 01 CAMARA AGRARIA LOCAL                               PLAZA AYUNTAMIENTO 1                                
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:        19   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 044 CÁSTARAS                                                                                                            
+ 01 001    U A-Z 180440001 01 CAMARA AGRARIA LOCAL                               PLAZA AYUNTAMIENTO 1                                                    
                                                                                  18439 CÁSTARAS                                      
                                                                                  GRANADA                                             
  ==================================================================================================================================  
@@ -1239,8 +1065,7 @@ Página  11
                                                                                  18818 CASTILLÉJAR                                   
                                                                                  GRANADA                                             
  01 001 02 B A-Z 180450002 01 ESCUELA UNITARIA DE LOS OLIVOS                     CALLE OLIVOS 34                                     
-                                                                                 OLIVOS (LOS)                                        
-                                                                                 OLIVAR (EL)                                         
+                                                                                 OLIVOS (LOS) OLIVAR (EL)                                         
                                                                                  18818 CASTILLÉJAR                                   
                                                                                  GRANADA                                             
  ==================================================================================================================================  
@@ -1421,8 +1246,7 @@ Página  13
  ==================================================================================================================================  
  MUNICIPIO : 056 CÚLLAR                                                                                                              
  01 001 02 B A-Z 180560002 01 ESCUELA MIXTA DE VERTIENTES                        ALDEA VERTIENTES 1                                  
-                                                                                 VERTIENTES                                          
-                                                                                 VERTIENTES (LAS)                                    
+                                                                                 VERTIENTES VERTIENTES (LAS)                                    
                                                                                  18859 CÚLLAR                                        
                                                                                  GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
@@ -1835,18 +1659,7 @@ B.O.P.  número  82
                                                                                  18150 GÓJAR                                         
                                                                                  GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
- 01 004    A A-L 180840001 01 GRUPO ESCOLAR VIRGEN DE LA PAZ                     CALLE ESCUELAS 5                                    
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:        29   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 084 GÓJAR                                                                                                               
+ 01 004    A A-L 180840001 01 GRUPO ESCOLAR VIRGEN DE LA PAZ                     CALLE ESCUELAS 5                                                     
                                                                                  18150 GÓJAR                                         
                                                                                  GRANADA                                             
  01 004    B M-Z 180840001 01 GRUPO ESCOLAR VIRGEN DE LA PAZ                     CALLE ESCUELAS 5                                    
@@ -1865,33 +1678,44 @@ B.O.P.  número  82
  ==================================================================================================================================  
  MUNICIPIO : 087 GRANADA                                                                                                             
  01 001    A A-L 180870001 01 GERENCIA TERRITORIAL DE CATASTRO                   CALLE MESONES 26                                    
-                                                                                 18001 GRANADA                                       
+                                                                                 18001 GRANADA    
+                                                                                 GRANADA                                   
  01 001    B M-Z 180870001 01 GERENCIA TERRITORIAL DE CATASTRO                   CALLE MESONES 26                                    
-                                                                                 18001 GRANADA                                       
+                                                                                 18001 GRANADA
+                                                                                 GRANADA                                       
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 004    U A-Z 180870003 01 ESCUELA DE ARTES Y OFICIOS                         CALLE GRACIA 4                                      
-                                                                                 18002 GRANADA                                       
+                                                                                 18002 GRANADA   
+                                                                                 GRANADA                                    
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 005    U A-Z 180870004 01 COLEGIO SAN JOSE                                   CALLE TABLAS 13                                     
-                                                                                 18002 GRANADA                                       
+                                                                                 18002 GRANADA
+                                                                                 GRANADA                                       
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 006    A A-L 180870126 01 COLEGIO VIRGEN DE GRACIA                           CALLE MUSICO VICENTE ZARZO 2                        
-                                                                                 18002 GRANADA                                       
+                                                                                 18002 GRANADA    
+                                                                                 GRANADA                                             
  01 006    B M-Z 180870126 01 COLEGIO VIRGEN DE GRACIA                           CALLE MUSICO VICENTE ZARZO 2                        
-                                                                                 18002 GRANADA                                       
+                                                                                 18002 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 007    A A-L 180870101 01 CENTRO CULTURAL GRAN CAPITAN                       CALLE GRAN CAPITAN 22                               
-                                                                                 18002 GRANADA                                       
+                                                                                 18002 GRANADA    
+                                                                                 GRANADA                                             
  01 007    B M-Z 180870101 01 CENTRO CULTURAL GRAN CAPITAN                       CALLE GRAN CAPITAN 22                               
-                                                                                 18002 GRANADA                                       
+                                                                                 18002 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 008    U A-Z 180870007 01 COLEGIO DE LA ASUNCION                             CALLE MARTINEZ DE LA ROSA 5                         
-                                                                                 18002 GRANADA                                       
+                                                                                 18002 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 009    A A-L 180870004 01 COLEGIO SAN JOSE                                   CALLE TABLAS 13                                     
-                                                                                 18002 GRANADA                                       
+                                                                                 18002 GRANADA    
+                                                                                 GRANADA                                             
  01 009    B M-Z 180870004 01 COLEGIO SAN JOSE                                   CALLE TABLAS 13                                     
-                                                                                 18002 GRANADA                                       
+                                                                                 18002 GRANADA    
+                                                                                 GRANADA                                             
 
   
   
@@ -1918,49 +1742,66 @@ Página  17
  MUNICIPIO : 087 GRANADA                                                                                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 011    A A-L 180870009 01 COLEGIO REGINA MUNDI                               CALLE ARABIAL 63                                    
-                                                                                 18004 GRANADA                                       
+                                                                                 18004 GRANADA    
+                                                                                 GRANADA                                             
  01 011    B M-Z 180870009 01 COLEGIO REGINA MUNDI                               CALLE ARABIAL 63                                    
-                                                                                 18004 GRANADA                                       
+                                                                                 18004 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 012    U A-Z 180870010 01 I.E.S. HERMENEGILDO LANZ                           CALLE PROFESOR LUIS BUENO CRESPO 2                  
-                                                                                 18003 GRANADA                                       
+                                                                                 18003 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 013    A A-L 180870011 01 COLEGIO SANTO TOMAS DE VILLANUEVA                  CALLE SANTO TOMAS DE VILLANUEVA 17                  
-                                                                                 18004 GRANADA                                       
+                                                                                 18004 GRANADA    
+                                                                                 GRANADA                                             
  01 013    B M-Z 180870011 01 COLEGIO SANTO TOMAS DE VILLANUEVA                  CALLE SANTO TOMAS DE VILLANUEVA 17                  
-                                                                                 18004 GRANADA                                       
+                                                                                 18004 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 015    U A-Z 180870101 01 CENTRO CULTURAL GRAN CAPITAN                       CALLE GRAN CAPITAN 22                               
-                                                                                 18002 GRANADA                                       
+                                                                                 18002 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 016    A A-L 180870007 01 COLEGIO DE LA ASUNCION                             CALLE MARTINEZ DE LA ROSA 5                         
-                                                                                 18002 GRANADA                                       
+                                                                                 18002 GRANADA    
+                                                                                 GRANADA                                             
  01 016    B M-Z 180870007 01 COLEGIO DE LA ASUNCION                             CALLE MARTINEZ DE LA ROSA 5                         
-                                                                                 18002 GRANADA                                       
+                                                                                 18002 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 017    A A-L 180870009 01 COLEGIO REGINA MUNDI                               CALLE ARABIAL 63                                    
-                                                                                 18004 GRANADA                                       
+                                                                                 18004 GRANADA    
+                                                                                 GRANADA                                             
  01 017    B M-Z 180870009 01 COLEGIO REGINA MUNDI                               CALLE ARABIAL 63                                    
-                                                                                 18004 GRANADA                                       
+                                                                                 18004 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 018    U A-Z 180870009 01 COLEGIO REGINA MUNDI                               CALLE ARABIAL 63                                    
-                                                                                 18004 GRANADA                                       
+                                                                                 18004 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 019    A A-L 180870002 01 COLEGIO SAN ISIDORO                                CALLE PROFESOR LUIS MOLINA GOMEZ 3                  
-                                                                                 18004 GRANADA                                       
+                                                                                 18004 GRANADA    
+                                                                                 GRANADA                                             
  01 019    B M-Z 180870002 01 COLEGIO SAN ISIDORO                                CALLE PROFESOR LUIS MOLINA GOMEZ 3                  
-                                                                                 18004 GRANADA                                       
+                                                                                 18004 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 020    U A-Z 180870126 01 COLEGIO VIRGEN DE GRACIA                           CALLE MUSICO VICENTE ZARZO 2                        
-                                                                                 18002 GRANADA                                       
+                                                                                 18002 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 021    A A-L 180870011 01 COLEGIO SANTO TOMAS DE VILLANUEVA                  CALLE SANTO TOMAS DE VILLANUEVA 17                  
-                                                                                 18004 GRANADA                                       
+                                                                                 18004 GRANADA    
+                                                                                 GRANADA                                             
  01 021    B M-Z 180870011 01 COLEGIO SANTO TOMAS DE VILLANUEVA                  CALLE SANTO TOMAS DE VILLANUEVA 17                  
-                                                                                 18004 GRANADA                                       
+                                                                                 18004 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 023    U A-Z 180870004 01 COLEGIO SAN JOSE                                   CALLE TABLAS 13                                     
-                                                                                 18002 GRANADA                                       
+                                                                                 18002 GRANADA    
+                                                                                 GRANADA                                             
 
  OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
  LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:        31   
@@ -1974,49 +1815,63 @@ Página  17
  MUNICIPIO : 087 GRANADA                                                                                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 001    U A-Z 180870136 01 CONSEJO CONSULTIVO DE ANDALUCIA                    PLAZA BIBATAUBIN (DE) 1                             
-                                                                                 18009 GRANADA                                       
+                                                                                 18009 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 002    A A-L 180870016 01 PARQUE BOMBEROS SUR                                CALLE ANTONIO DALMASES 2                            
-                                                                                 18006 GRANADA                                       
+                                                                                 18006 GRANADA    
+                                                                                 GRANADA                                             
  02 002    B M-Z 180870016 01 PARQUE BOMBEROS SUR                                CALLE ANTONIO DALMASES 2                            
-                                                                                 18006 GRANADA                                       
+                                                                                 18006 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 003    U A-Z 180870143 01 CENTRO MUNICIPAL DE ATENCION AL PERSONAL           CALLE MARTIN BOHORQUEZ 24                           
-                                                                                 18005 GRANADA                                       
+                                                                                 18005 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 004    U A-Z 180870136 01 CONSEJO CONSULTIVO DE ANDALUCIA                    PLAZA BIBATAUBIN (DE) 1                             
                                                                                  18009 GRANADA                                       
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 005    A A-L 180870018 01 COLEGIO GENIL                                      CALLE SAN ANTON 87                                  
-                                                                                 18005 GRANADA                                       
+                                                                                 18005 GRANADA    
+                                                                                 GRANADA                                             
  02 005    B M-Z 180870018 01 COLEGIO GENIL                                      CALLE SAN ANTON 87                                  
-                                                                                 18005 GRANADA                                       
+                                                                                 18005 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 006    U A-Z 180870018 01 COLEGIO GENIL                                      CALLE SAN ANTON 87                                  
-                                                                                 18005 GRANADA                                       
+                                                                                 18005 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 007    U A-Z 180870149 01 GRUPO MUNICIPAL DE BAILES REGIONALES               CALLE SAN JOSE BAJA 50                              
-                                                                                 18005 GRANADA                                       
+                                                                                 18005 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 008    U A-Z 180870020 01 CONSJRIA IGUALDAD POLITICAS SOCIALES CONCILIACION  CALLE ANCHA DE GRACIA 6                             
                                                                                  18002 GRANADA                                       
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 009    U A-Z 180870021 01 C.P. TIERNO GALVAN                                 PLAZA NUESTRO PADRE JESUS DESPOJADO (DE) 1          
-                                                                                 18005 GRANADA                                       
+                                                                                 18005 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 010    U A-Z 180870021 01 C.P. TIERNO GALVAN                                 PLAZA NUESTRO PADRE JESUS DESPOJADO (DE) 1          
-                                                                                 18005 GRANADA                                       
+                                                                                 18005 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 011    U A-Z 180870018 01 COLEGIO GENIL                                      CALLE SAN ANTON 87                                  
-                                                                                 18005 GRANADA                                       
+                                                                                 18005 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 012    U A-Z 180870008 01 SERVICIO DE TURISMO-AYTO. DE GRANADA               CALLE VIRGEN BLANCA 9 A                             
-                                                                                 18004 GRANADA                                       
+                                                                                 18004 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 013    A A-L 180870018 01 COLEGIO GENIL                                      CALLE SAN ANTON 87                                  
-                                                                                 18005 GRANADA                                       
+                                                                                 18005 GRANADA    
+                                                                                 GRANADA                                             
  02 013    B M-Z 180870018 01 COLEGIO GENIL                                      CALLE SAN ANTON 87                                  
-                                                                                 18005 GRANADA                                       
+                                                                                 18005 GRANADA    
+                                                                                 GRANADA                                             
 
   
   
@@ -2043,22 +1898,29 @@ B.O.P.  número  82
  MUNICIPIO : 087 GRANADA                                                                                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 014    A A-L 180870008 01 SERVICIO DE TURISMO-AYTO. DE GRANADA               CALLE VIRGEN BLANCA 9 A                             
-                                                                                 18004 GRANADA                                       
+                                                                                 18004 GRANADA    
+                                                                                 GRANADA                                             
  02 014    B M-Z 180870008 01 SERVICIO DE TURISMO-AYTO. DE GRANADA               CALLE VIRGEN BLANCA 9 A                             
-                                                                                 18004 GRANADA                                       
+                                                                                 18004 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 015    A A-L 180870024 01 COLEGIO CAJA DE AHORROS                            AVDA AMERICA (DE) 1                                 
-                                                                                 18006 GRANADA                                       
+                                                                                 18006 GRANADA    
+                                                                                 GRANADA                                             
  02 015    B M-Z 180870024 01 COLEGIO CAJA DE AHORROS                            AVDA AMERICA (DE) 1                                 
-                                                                                 18006 GRANADA                                       
+                                                                                 18006 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 016    U A-Z 180870025 01 I.E.S. MARIANA PINEDA                              CALLE BEETHOVEN 4                                   
-                                                                                 18006 GRANADA                                       
+                                                                                 18006 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 017    A A-K 180870025 01 I.E.S. MARIANA PINEDA                              CALLE BEETHOVEN 4                                   
-                                                                                 18006 GRANADA                                       
+                                                                                 18006 GRANADA    
+                                                                                 GRANADA                                             
  02 017    B L-Z 180870025 01 I.E.S. MARIANA PINEDA                              CALLE BEETHOVEN 4                                   
-                                                                                 18006 GRANADA                                       
+                                                                                 18006 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 018    A A-K 180870026 01 COLEGIO SANTA MARTA                                CALLE CONCHA ESPINA 20                              
                                                                                  18007 GRANADA                                       
@@ -2066,12 +1928,15 @@ B.O.P.  número  82
                                                                                  18007 GRANADA                                       
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 019    U A-Z 180870027 01 INSTITUTO ALHAMBRA                                 CALLE BEETHOVEN 2                                   
-                                                                                 18006 GRANADA                                       
+                                                                                 18006 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 020    A A-L 180870028 01 COLEGIO ANDRES SEGOVIA                             AVDA DUQUE DE SAN PEDRO GALATINO (DEL) 10           
-                                                                                 18006 GRANADA                                       
+                                                                                 18006 GRANADA    
+                                                                                 GRANADA                                             
  02 020    B M-Z 180870028 01 COLEGIO ANDRES SEGOVIA                             AVDA DUQUE DE SAN PEDRO GALATINO (DEL) 10           
-                                                                                 18006 GRANADA                                       
+                                                                                 18006 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 022    U A-Z 180870029 01 CENTRO CIVICO DE DIA-ZAIDIN                        CALLE ANDRES SEGOVIA 60                             
                                                                                  18008 GRANADA                                       
@@ -2111,14 +1976,18 @@ B.O.P.  número  82
                                                                                  18016 GRANADA                                       
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 030    A A-L 180870036 01 COLEGIO JARDIN DE LA REINA                         AVDA MEDITERRANEO (DEL) 5                           
-                                                                                 18006 GRANADA                                       
+                                                                                 18006 GRANADA    
+                                                                                 GRANADA                                             
  02 030    B M-Z 180870036 01 COLEGIO JARDIN DE LA REINA                         AVDA MEDITERRANEO (DEL) 5                           
-                                                                                 18006 GRANADA                                       
+                                                                                 18006 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 031    A A-L 180870037 01 ESCUELA PROFESIONAL DON BOSCO                      CALLE ALMUÑECAR 9                                   
-                                                                                 18006 GRANADA                                       
+                                                                                 18006 GRANADA    
+                                                                                 GRANADA                                             
  02 031    B M-Z 180870037 01 ESCUELA PROFESIONAL DON BOSCO                      CALLE ALMUÑECAR 9                                   
-                                                                                 18006 GRANADA                                       
+                                                                                 18006 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 032    A A-L 180870038 01 HOTEL DE ASOCIACIONES GLORIA MAS                   CALLE MARGARITA XIRGU 12                            
                                                                                  18007 GRANADA                                       
@@ -2126,58 +1995,44 @@ B.O.P.  número  82
                                                                                  18007 GRANADA                                       
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 033    U A-Z 180870039 01 CENTRO TERCERA EDAD-FIGARES                        CALLE AGUSTINA DE ARAGON 9                          
-                                                                                 18005 GRANADA                                       
+                                                                                 18005 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 034    U A-Z 180870020 01 CONSJRIA IGUALDAD POLITICAS SOCIALES CONCILIACION  CALLE ANCHA DE GRACIA 6                             
                                                                                  18002 GRANADA                                       
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 035    A A-L 180870018 01 COLEGIO GENIL                                      CALLE SAN ANTON 87                                  
-                                                                                 18005 GRANADA                                       
+                                                                                 18005 GRANADA    
+                                                                                 GRANADA                                             
  02 035    B M-Z 180870018 01 COLEGIO GENIL                                      CALLE SAN ANTON 87                                  
-                                                                                 18005 GRANADA                                       
+                                                                                 18005 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 036    U A-Z 180870008 01 SERVICIO DE TURISMO-AYTO. DE GRANADA               CALLE VIRGEN BLANCA 9 A                             
-                                                                                 18004 GRANADA                                       
+                                                                                 18004 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 037    A A-L 180870141 01 CENTRO DE DIA "BUENOS AIRES"                       CALLE EUDOXIA PIRIZ 1                               
-                                                                                 18004 GRANADA                                       
- 02 037    B M-Z 180870141 01 CENTRO DE DIA "BUENOS AIRES"                       CALLE EUDOXIA PIRIZ 1                               
-
-  
-  
-
-B.O.P.  número  82
-
-n
-
-Granada, lunes, 2 de mayo de 2022
-
-n
-
-Página  19
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:        34   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 087 GRANADA                                                                                                             
-                                                                                 18004 GRANADA                                       
+                                                                                 18004 GRANADA    
+                                                                                 GRANADA                                             
+ 02 037    B M-Z 180870141 01 CENTRO DE DIA "BUENOS AIRES"                       CALLE EUDOXIA PIRIZ 1                                   
+                                                                                 18004 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 038    U A-Z 180870024 01 COLEGIO CAJA DE AHORROS                            AVDA AMERICA (DE) 1                                 
-                                                                                 18006 GRANADA                                       
+                                                                                 18006 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 039    U A-Z 180870037 01 ESCUELA PROFESIONAL DON BOSCO                      CALLE ALMUÑECAR 9                                   
-                                                                                 18006 GRANADA                                       
+                                                                                 18006 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 040    A A-L 180870041 01 COLEGIO DEL CARMELO                                CALLE FELIX RODRIGUEZ DE LA FUENTE 10               
-                                                                                 18006 GRANADA                                       
+                                                                                 18006 GRANADA    
+                                                                                 GRANADA                                             
  02 040    B M-Z 180870041 01 COLEGIO DEL CARMELO                                CALLE FELIX RODRIGUEZ DE LA FUENTE 10               
-                                                                                 18006 GRANADA                                       
+                                                                                 18006 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 041    U A-Z 180870042 01 INSTITUTO JUAN XXIII ZAIDIN                        CMNO SANTA JULIANA (DE) 5                           
                                                                                  18016 GRANADA                                       
@@ -2196,14 +2051,18 @@ Página  19
                                                                                  18016 GRANADA                                       
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 046    A A-L 180870036 01 COLEGIO JARDIN DE LA REINA                         AVDA MEDITERRANEO (DEL) 5                           
-                                                                                 18006 GRANADA                                       
+                                                                                 18006 GRANADA    
+                                                                                 GRANADA                                             
  02 046    B M-Z 180870036 01 COLEGIO JARDIN DE LA REINA                         AVDA MEDITERRANEO (DEL) 5                           
-                                                                                 18006 GRANADA                                       
+                                                                                 18006 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 047    A A-L 180870028 01 COLEGIO ANDRES SEGOVIA                             AVDA DUQUE DE SAN PEDRO GALATINO (DEL) 10           
-                                                                                 18006 GRANADA                                       
+                                                                                 18006 GRANADA    
+                                                                                 GRANADA                                             
  02 047    B M-Z 180870028 01 COLEGIO ANDRES SEGOVIA                             AVDA DUQUE DE SAN PEDRO GALATINO (DEL) 10           
-                                                                                 18006 GRANADA                                       
+                                                                                 18006 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 048    U A-Z 180870029 01 CENTRO CIVICO DE DIA-ZAIDIN                        CALLE ANDRES SEGOVIA 60                             
                                                                                  18008 GRANADA                                       
@@ -2335,18 +2194,7 @@ B.O.P.  número  82
  03 021    U A-Z 180870060 01 COLEGIO MIGUEL HERNANDEZ                           CALLE PUERTA DE LOS GUZMANES 9                      
                                                                                  18011 GRANADA                                       
 -----------------------------------------------------------------------------------------------------------------------------------  
- 03 023    A A-K 180870057 01 I.E.S. CARTUJA                                     CALLE JULIO MORENO DAVILA 18                        
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:        37   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 087 GRANADA                                                                                                             
+ 03 023    A A-K 180870057 01 I.E.S. CARTUJA                                     CALLE JULIO MORENO DAVILA 18                                             
                                                                                  18011 GRANADA                                       
  03 023    B L-Z 180870057 01 I.E.S. CARTUJA                                     CALLE JULIO MORENO DAVILA 18                        
                                                                                  18011 GRANADA                                       
@@ -2460,18 +2308,7 @@ Página  21
 -----------------------------------------------------------------------------------------------------------------------------------  
  03 043    A A-L 180870073 01 E.T.S. INGENIERIA INFORMATICA                      CALLE PERIODISTA DANIEL SAUCEDO ARANDA 2            
                                                                                  18014 GRANADA                                       
- 03 043    B M-Z 180870073 01 E.T.S. INGENIERIA INFORMATICA                      CALLE PERIODISTA DANIEL SAUCEDO ARANDA 2            
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:        39   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 087 GRANADA                                                                                                             
+ 03 043    B M-Z 180870073 01 E.T.S. INGENIERIA INFORMATICA                      CALLE PERIODISTA DANIEL SAUCEDO ARANDA 2                            
                                                                                  18014 GRANADA                                       
 -----------------------------------------------------------------------------------------------------------------------------------  
  03 044    A A-K 180870137 01 COMPLEJO DEPORTIVO ANTONIO PRIETO CASTILLO         AVDA FEDERICO GARCIA LORCA 21                       
@@ -2493,30 +2330,39 @@ Página  21
                                                                                  18014 GRANADA                                       
 -----------------------------------------------------------------------------------------------------------------------------------  
  04 001    U A-Z 180870136 01 CONSEJO CONSULTIVO DE ANDALUCIA                    PLAZA BIBATAUBIN (DE) 1                             
-                                                                                 18009 GRANADA                                       
+                                                                                 18009 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  04 002    U A-Z 180870153 01 TESORERIA GENERAL DE LA SEGURIDAD SOCIAL-DP GRANAD CALLE ALVARO DE BAZAN 10                            
-                                                                                 18001 GRANADA                                       
+                                                                                 18001 GRANADA    
+                                                                                 GRANADA                                              
 -----------------------------------------------------------------------------------------------------------------------------------  
  04 003    U A-Z 180870077 01 COLEGIO AVE MARIA                                  CUSTA CHAPIZ (DEL) 18                               
-                                                                                 18010 GRANADA                                       
+                                                                                 18010 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  05 002    U A-Z 180870078 01 COLEGIO GOMEZ MORENO                               PLAZA CEMENTERIO DE SAN NICOLAS 3                   
-                                                                                 18010 GRANADA                                       
+                                                                                 18010 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  06 001    A A-L 180870079 01 COLEGIO NTRA SRA DE LAS MERCEDES                   CALLE SANTA ESCOLASTICA 6                           
-                                                                                 18009 GRANADA                                       
+                                                                                 18009 GRANADA    
+                                                                                 GRANADA                                             
  06 001    B M-Z 180870079 01 COLEGIO NTRA SRA DE LAS MERCEDES                   CALLE SANTA ESCOLASTICA 6                           
-                                                                                 18009 GRANADA                                       
+                                                                                 18009 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  06 003    U A-Z 180870080 01 CENTRO EDUCACION ADULTOS REALEJO-SAN MATIAS        CALLE CASTAÑEDA 23                                  
-                                                                                 18009 GRANADA                                       
+                                                                                 18009 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  06 004    U A-Z 180870121 01 COLEGIO JOSE HURTADO                               CALLE MOLINOS 55                                    
-                                                                                 18009 GRANADA                                       
+                                                                                 18009 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  06 005    A A-L 180870121 01 COLEGIO JOSE HURTADO                               CALLE MOLINOS 55                                    
-                                                                                 18009 GRANADA                                       
+                                                                                 18009 GRANADA    
+                                                                                 GRANADA                                             
 
   
   
@@ -2542,7 +2388,8 @@ B.O.P.  número  82
  ==================================================================================================================================  
  MUNICIPIO : 087 GRANADA                                                                                                             
  06 005    B M-Z 180870121 01 COLEGIO JOSE HURTADO                               CALLE MOLINOS 55                                    
-                                                                                 18009 GRANADA                                       
+                                                                                 18009 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  06 006    A A-L 180870083 01 COLEGIO PADRES ESCOLAPIOS                          PASEO BASILIOS (DE LOS) 2 A                         
                                                                                  18008 GRANADA                                       
@@ -2584,7 +2431,8 @@ B.O.P.  número  82
                                                                                  18008 GRANADA                                       
 -----------------------------------------------------------------------------------------------------------------------------------  
  06 017    U A-Z 180870090 01 COLEGIO PARQUE DE LAS INFANTAS                     AVDA DILAR (DE) 4 A                                 
-                                                                                 18006 GRANADA                                       
+                                                                                 18006 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
 
  OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
@@ -2598,7 +2446,8 @@ B.O.P.  número  82
  ==================================================================================================================================  
  MUNICIPIO : 087 GRANADA                                                                                                             
  06 018    U A-Z 180870090 01 COLEGIO PARQUE DE LAS INFANTAS                     AVDA DILAR (DE) 4 A                                 
-                                                                                 18006 GRANADA                                       
+                                                                                 18006 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  06 019    U A-Z 180870030 01 I.E.S. ZAIDIN-VERGELES                             CALLE PRIMAVERA 26                                  
                                                                                  18008 GRANADA                                       
@@ -2809,33 +2658,43 @@ B.O.P.  número  82
                                                                                  18003 GRANADA                                       
 -----------------------------------------------------------------------------------------------------------------------------------  
  08 001    A A-L 180870044 01 COLEGIO INMACULADA TRIUNFO                         AVDA CAPITAN MORENO 5                               
-                                                                                 18010 GRANADA                                       
+                                                                                 18010 GRANADA    
+                                                                                 GRANADA                                             
  08 001    B M-Z 180870044 01 COLEGIO INMACULADA TRIUNFO                         AVDA CAPITAN MORENO 5                               
-                                                                                 18010 GRANADA                                       
+                                                                                 18010 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  08 002    U A-Z 180870115 01 COLEGIO AVE MARIA SAN CRISTOBAL                    CTRA MURCIA (DE) 51                                 
-                                                                                 18010 GRANADA                                       
+                                                                                 18010 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  08 003    U A-Z 180870116 01 COLEGIO NOVICIADO CRISTO REY                       CALLE SAN GREGORIO ALTO 1                           
-                                                                                 18010 GRANADA                                       
+                                                                                 18010 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  08 004 01 A A-L 180870133 01 COLEGIO DIVINO MAESTRO                             CALLE CRUZ DE PIEDRA DEL ALBAICIN 2                 
-                                                                                 18010 GRANADA                                       
+                                                                                 18010 GRANADA    
+                                                                                 GRANADA                                             
  08 004 01 B M-Z 180870133 01 COLEGIO DIVINO MAESTRO                             CALLE CRUZ DE PIEDRA DEL ALBAICIN 2                 
-                                                                                 18010 GRANADA                                       
+                                                                                 18010 GRANADA    
+                                                                                 GRANADA                                             
  08 004 02 C A-Z 180870118 01 ASOCIACION DE VECINOS DEL FARGUE                   CALLE REAL DEL FARGUE 53                            
                                                                                  ALQUERIA DEL FARGUE                                 
                                                                                  18182 GRANADA                                       
  08 004 03 D A-Z 180870151 01 COLEGIO AVE MARIA-CASA MADRE                       CMNO SACROMONTE (DEL) 60                            
-                                                                                 18010 GRANADA                                       
+                                                                                 18010 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  08 006    A A-K 180870140 01 CENTRO DE DIA DE MAYORES (HAZA GRANDE)             CALLE NEVADA 26                                     
-                                                                                 18010 GRANADA                                       
+                                                                                 18010 GRANADA    
+                                                                                 GRANADA                                             
  08 006    B L-Z 180870140 01 CENTRO DE DIA DE MAYORES (HAZA GRANDE)             CALLE NEVADA 26                                     
-                                                                                 18010 GRANADA                                       
+                                                                                 18010 GRANADA    
+                                                                                 GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  09 001    U A-Z 180870079 01 COLEGIO NTRA SRA DE LAS MERCEDES                   CALLE SANTA ESCOLASTICA 6                           
-                                                                                 18009 GRANADA                                       
+                                                                                 18009 GRANADA    
+                                                                                 GRANADA                                             
 
  OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
  LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:        45   
@@ -2849,7 +2708,8 @@ B.O.P.  número  82
  MUNICIPIO : 087 GRANADA                                                                                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  09 002 01 A A-Z 180870121 01 COLEGIO JOSE HURTADO                               CALLE MOLINOS 55                                    
-                                                                                 18009 GRANADA                                       
+                                                                                 18009 GRANADA    
+                                                                                 GRANADA                                             
  09 002 02 B A-Z 180870122 01 C.P. SAGRADA FAMILIA                               CTRA SIERRA (DE LA) 9                               
                                                                                  18008 GRANADA                                       
 -----------------------------------------------------------------------------------------------------------------------------------  
@@ -2960,18 +2820,7 @@ Página  25
                                                                                  GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 008    U A-Z 180890004 01 C.P. OBISPO MEDINA OLMOS                           CLLON PIMENTILLOS (DE LOS) 2                        
-                                                                                 18500 GUADIX                                        
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:        47   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 089 GUADIX                                                                                                              
+                                                                                 18500 GUADIX                                           
                                                                                  GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 009    A A-L 180890007 01 I.E.S. PADRE POVEDA                                CALLE JOSEFA SEGOVIA 1                              
@@ -3016,31 +2865,7 @@ Página  25
  02 003    A A-L 180890010 01 CENTRO SOCIAL BARRIADA ANDALUCIA                   PLAZA BLAS INFANTE 1                                
                                                                                  18500 GUADIX                                        
                                                                                  GRANADA                                             
- 02 003    B M-Z 180890010 01 CENTRO SOCIAL BARRIADA ANDALUCIA                   PLAZA BLAS INFANTE 1                                
-
-  
-  
-
-Página  26
-
-n
-
-Granada, lunes, 2 de mayo de 2022
-
-n
-
-B.O.P.  número  82
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:        48   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 089 GUADIX                                                                                                              
+ 02 003    B M-Z 180890010 01 CENTRO SOCIAL BARRIADA ANDALUCIA                   PLAZA BLAS INFANTE 1                                                   
                                                                                  18500 GUADIX                                        
                                                                                  GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
@@ -3053,8 +2878,7 @@ B.O.P.  número  82
                                                                                  18880 GUADIX                                        
                                                                                  GRANADA                                             
  03 001 03 C A-Z 180890013 01 AYUNTAMIENTO DE BACOR-OLIVAR                       CALLE PRINCIPE DE ASTURIAS 1                        
-                                                                                 BACOR                                               
-                                                                                 BACOR-OLIVAR                                        
+                                                                                 BACOR BACOR-OLIVAR                                        
                                                                                  18860 GUADIX                                        
                                                                                  GRANADA                                             
  ==================================================================================================================================  
@@ -3135,8 +2959,7 @@ B.O.P.  número  82
  ==================================================================================================================================  
  MUNICIPIO : 098 HUÉSCAR                                                                                                             
  01 001 01 A A-Z 180980001 01 ESCUELA BARRIO NUEVO DE SAN CLEMENTE               BARRO NUEVO DE SAN CLEMENTE 63                      
-                                                                                 BARRIO NUEVO DE SAN CLEMENTE                        
-                                                                                 BARRIO NUEVO                                        
+                                                                                 BARRIO NUEVO DE SAN CLEMENTE BARRIO NUEVO                                        
                                                                                  18830 HUÉSCAR                                       
                                                                                  GRANADA                                             
 
@@ -3332,18 +3155,7 @@ B.O.P.  número  82
  ==================================================================================================================================  
  MUNICIPIO : 102 ÍLLORA                                                                                                              
  01 001    A A-K 181020001 01 C.P. GRAN CAPITAN                                  AVDA SAN ROGELIO 2                                  
-                                                                                 18260 ÍLLORA                                        
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:        53   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 102 ÍLLORA                                                                                                              
+                                                                                 18260 ÍLLORA                                              
                                                                                  GRANADA                                             
  01 001    B L-Z 181020001 01 C.P. GRAN CAPITAN                                  AVDA SAN ROGELIO 2                                  
                                                                                  18260 ÍLLORA                                        
@@ -3629,31 +3441,7 @@ B.O.P.  número  82
                                                                                  18300 LOJA                                          
                                                                                  GRANADA                                             
  02 002    B M-Z 181220021 01 C.P. EL CAMINILLO                                  CALLE MARIANA PINEDA 21                             
-                                                                                 18300 LOJA                                          
-
-  
-  
-
-B.O.P.  número  82
-
-n
-
-Granada, lunes, 2 de mayo de 2022
-
-n
-
-Página  31
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:        58   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 122 LOJA                                                                                                                
+                                                                                 18300 LOJA                                       
                                                                                  GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 003    A A-L 181220005 01 COLEGIO PUBLICO LOS ANGELES                        AVDA ANGELES (LOS) 10                               
@@ -3671,8 +3459,7 @@ Página  31
                                                                                  GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 005    U A-Z 181220022 01 INSTALACIONES GEMALSA                              AVDA ANDALUCIA 60                                   
-                                                                                 BARRIO SAN ANTONIO                                  
-                                                                                 MANZANIL                                            
+                                                                                 BARRIO SAN ANTONIO MANZANIL                                            
                                                                                  18300 LOJA                                          
                                                                                  GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
@@ -3754,31 +3541,7 @@ Página  31
                                                                                  GRANADA                                             
  ==================================================================================================================================  
  MUNICIPIO : 124 LÚJAR                                                                                                               
- 01 001    U A-Z 181240002 01 CENTRO SOCIAL                                      PLAZA IGLESIA 6                                     
-
-  
-  
-
-Página  32
-
-n
-
-Granada, lunes, 2 de mayo de 2022
-
-n
-
-B.O.P.  número  82
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:        60   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 124 LÚJAR                                                                                                               
+ 01 001    U A-Z 181240002 01 CENTRO SOCIAL                                      PLAZA IGLESIA 6                                               
                                                                                  18614 LÚJAR                                         
                                                                                  GRANADA                                             
  ==================================================================================================================================  
@@ -3823,18 +3586,7 @@ B.O.P.  número  82
                                                                                  18200 MARACENA                                      
                                                                                  GRANADA                                             
  01 005    B M-Z 181270005 01 INSTITUTO ENSEÑANZA SECUNDARIA                     AVDA JOSE COMINO 1                                  
-                                                                                 18200 MARACENA                                      
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:        61   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 127 MARACENA                                                                                                            
+                                                                                 18200 MARACENA                                                    
                                                                                  GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 006    U A-Z 181270005 01 INSTITUTO ENSEÑANZA SECUNDARIA                     AVDA JOSE COMINO 1                                  
@@ -3880,30 +3632,6 @@ B.O.P.  número  82
                                                                                  GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 006    U A-Z 181270003 01 CEIP MAESTRA TERESA MORALES                        CALLE TIERRA MEDIA S/N                              
-
-  
-  
-
-B.O.P.  número  82
-
-n
-
-Granada, lunes, 2 de mayo de 2022
-
-n
-
-Página  33
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:        62   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 127 MARACENA                                                                                                            
                                                                                  18200 MARACENA                                      
                                                                                  GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
@@ -3949,17 +3677,6 @@ Página  33
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 002    A A-M 181330002 01 BAJOS DEL AYUNTAMIENTO                             CALLE REAL 12                                       
                                                                                  18611 MOLVÍZAR                                      
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:        63   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 133 MOLVÍZAR                                                                                                            
                                                                                  GRANADA                                             
  01 002    B N-Z 181330002 01 BAJOS DEL AYUNTAMIENTO                             CALLE REAL 12                                       
                                                                                  18611 MOLVÍZAR                                      
@@ -4197,17 +3914,6 @@ Página  35
 -----------------------------------------------------------------------------------------------------------------------------------  
  03 001    U A-Z 181400008 01 ESCUELA DE ARTE                                    PLAZA CRUZ VERDE 4                                  
                                                                                  18600 MOTRIL                                        
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:        67   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 140 MOTRIL                                                                                                              
                                                                                  GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  03 002    U A-Z 181400009 01 BIBLIOTECA MUNICIPAL                               CALLE RAMBLA DE CAPUCHINOS 1                        
@@ -4377,31 +4083,7 @@ B.O.P.  número  82
                                                                                  VARADERO (EL)                                       
                                                                                  18613 MOTRIL                                        
                                                                                  GRANADA                                             
- 05 004    B M-Z 181400022 01 ESCUELAS AVE MARIA SANTA ADELA                     AVDA JULIO MORENO 1                                 
-
-  
-  
-
-B.O.P.  número  82
-
-n
-
-Granada, lunes, 2 de mayo de 2022
-
-n
-
-Página  37
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:        70   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 140 MOTRIL                                                                                                              
+ 05 004    B M-Z 181400022 01 ESCUELAS AVE MARIA SANTA ADELA                     AVDA JULIO MORENO 1                           
                                                                                  VARADERO (EL)                                       
                                                                                  18613 MOTRIL                                        
                                                                                  GRANADA                                             
@@ -4627,30 +4309,6 @@ B.O.P.  número  82
                                                                                  GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  02 003    A A-L 181500005 01 ESCUELA DE MUSICA                                  CALLE MARIANA PINEDA 12                             
-
-  
-  
-
-B.O.P.  número  82
-
-n
-
-Granada, lunes, 2 de mayo de 2022
-
-n
-
-Página  39
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:        74   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 150 PADUL                                                                                                               
                                                                                  18640 PADUL                                         
                                                                                  GRANADA                                             
  02 003    B M-Z 181500005 01 ESCUELA DE MUSICA                                  CALLE MARIANA PINEDA 12                             
@@ -4819,17 +4477,6 @@ B.O.P.  número  82
                                                                                  18568 PÍÑAR                                         
                                                                                  GRANADA                                             
  01 001 02 B A-Z 181590002 01 GRUPO ESCOLAR DE BOGARRE                           AVDA ANDALUCIA DE BOGARRE 56                        
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:        77   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 159 PÍÑAR                                                                                                               
                                                                                  BOGARRE                                             
                                                                                  18562 PÍÑAR                                         
                                                                                  GRANADA                                             
@@ -5065,18 +4712,7 @@ B.O.P.  número  82
                                                                                  18320 SANTA FE                                      
                                                                                  GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
- 01 005    A A-K 181750005 01 CENTRO OCUPACIONAL MUNICIPAL                       CALLE TIKAZ 2                                       
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:        81   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 175 SANTA FE                                                                                                            
+ 01 005    A A-K 181750005 01 CENTRO OCUPACIONAL MUNICIPAL                       CALLE TIKAZ 2                                                         
                                                                                  18320 SANTA FE                                      
                                                                                  GRANADA                                             
  01 005    B L-Z 181750005 01 CENTRO OCUPACIONAL MUNICIPAL                       CALLE TIKAZ 2                                       
@@ -5310,18 +4946,7 @@ B.O.P.  número  82
  01 006    A A-L 181930005 01 C.P. TIERNO GALVAN                                 CALLE ALCALDE FRANCISCO PEREZ LOPEZ 1               
                                                                                  18140 ZUBIA (LA)                                    
                                                                                  GRANADA                                             
- 01 006    B M-Z 181930005 01 C.P. TIERNO GALVAN                                 CALLE ALCALDE FRANCISCO PEREZ LOPEZ 1               
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:        85   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 193 ZUBIA (LA)                                                                                                          
+ 01 006    B M-Z 181930005 01 C.P. TIERNO GALVAN                                 CALLE ALCALDE FRANCISCO PEREZ LOPEZ 1                                                     
                                                                                  18140 ZUBIA (LA)                                    
                                                                                  GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
@@ -5367,30 +4992,6 @@ B.O.P.  número  82
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 002    U A-Z 181940004 01 EDIFICIO CENTRO GUADALINFO                         CALLE MOLINILLO 1                                   
                                                                                  18811 ZÚJAR                                         
-
-  
-  
-
-B.O.P.  número  82
-
-n
-
-Granada, lunes, 2 de mayo de 2022
-
-n
-
-Página  45
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:        86   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 194 ZÚJAR                                                                                                               
                                                                                  GRANADA                                             
  ==================================================================================================================================  
  MUNICIPIO : 901 TAHA (LA)                                                                                                           
@@ -5558,18 +5159,7 @@ B.O.P.  número  82
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 012    U A-Z 189050001 01 ESCUELA DE ADULTOS                                 CALLE SEVERO OCHOA 11                               
                                                                                  GABIA GRANDE                                        
-                                                                                 18110 GABIAS (LAS)                                  
-
- OFICINA DEL CENSO ELECTORAL                                                                                  FECHA ...: 28/04/2022  
- LISTA DE MESAS ELECTORALES                                                                                   PAGINA ..:        89   
-
- CIERRE ....: 000043301 ELECCIONES AL PARLAMENTO DE ANDALUCÍA 19-06-2022                                                             
- PROVINCIA .: 18   GRANADA                                                                                                           
- ----------------------------------------------------------------------------------------------------------------------------------- 
- DI SEC SU M LET                    LOCAL ELECTORAL                                                   DIRECCION                      
- -- --- -- - --- -------------------------------------------------------------- ---------------------------------------------------  
- ==================================================================================================================================  
- MUNICIPIO : 905 GABIAS (LAS)                                                                                                        
+                                                                                 18110 GABIAS (LAS)                                                         
                                                                                  GRANADA                                             
 -----------------------------------------------------------------------------------------------------------------------------------  
  01 013    U A-Z 189050009 01 INSTALACION MUNICIPAL EL SILO                      CALLE PROGRESO 41                                   
