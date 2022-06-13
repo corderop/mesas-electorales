@@ -25,9 +25,10 @@ def get_regex():
     ignore_pattern = r"(?:\*DISEMINADO\*| )"
     postal_code = r"\d{5}"
     town = r"(?:\S| )+?"
-    province = r"(?:\w| )+?"
+    province = r"(?:GRANADA| )"
     
-    # (\d{2})\s+(\d{3})\s+(\d{2}|)\s+([A-Z])\s+([A-Z]\-[A-Z])\s+(\d{9})\s+(\d{2})\s+((?:\S| )+?)\s{2,}((?:\S| |\d)+?)\s{2,}((?:(?:\S| )+?|)?)\s{2,}(\d{5})\s+((?:\S| )+?)\s{2,}((?:\w| )+?)\s{2,}
+    # (\d{2})\s+(\d{3})\s+(\d{2}|)\s+([A-Z])\s+([A-Z]\-[A-Z])\s+(\d{9})\s+(\d{2})\s+((?:\S| )+?)\s{2,}
+    # ((?:\S| |\d)+?)\s{2,}(?:\*DISEMINADO\*| )\s{2,}((?:\S| )+?)\s{2,}(\d{5})\s+((?:\S| )+?)\s{2,}(?:GRANADA| )\s{2,}
     regex = (
         rf"({di})", AT_LEAST_ONE_SPACE,
         rf"({sec})", AT_LEAST_ONE_SPACE,
@@ -42,12 +43,12 @@ def get_regex():
         rf"({optional_place})", AT_LEAST_TWO_SPACES,
         rf"({postal_code})", AT_LEAST_ONE_SPACE,
         rf"({town})", AT_LEAST_TWO_SPACES,
-        rf"({province})", AT_LEAST_TWO_SPACES,
+        rf"{province}", AT_LEAST_TWO_SPACES,
     )
     return "".join(regex)
     
 def create_csv_from_list(data: list):
-    output = "\n".join([",".join(row) for row in data])
+    output = "\n".join([";".join(row) for row in data])
     with open("data.csv", "w") as f:
         f.write(output)
 
@@ -58,7 +59,6 @@ if __name__ == "__main__":
 
     print("Executing regex...")
     regex = get_regex()
-    print(regex)
     data = re.findall(regex, text)
 
     print(f"Extracted {len(data)} rows")
